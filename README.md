@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Prince Deb</h1>
-<h3 align="center">A passionate Computer Science enthusiast from Bangladesh</h3>
+<h1 align="center">Hi 👋, It's Prince Deb</h1>
+<h3 align="center">A Computer Science enthusiast from Bangladesh</h3>
 
 - 🌱 I’m currently learning **Django**
 
 - 👨‍💻 All of my projects are available at [https://princedeb162.github.io/Portfolio/](https://princedeb162.github.io/Portfolio/)
 
-- 📫 How to reach me **debprince21@gmail.com**
+- 📫 Contact me: **debprince21@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
