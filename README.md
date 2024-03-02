@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, It's Prince Deb</h1>
 <h3 align="center">A Computer Science enthusiast from Bangladesh</h3>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Node.js**;
 
 - 👨‍💻 All of my projects are available at [https://princedeb162.github.io/Portfolio/](https://princedeb162.github.io/Portfolio/)
 
